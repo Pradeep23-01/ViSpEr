@@ -12,7 +12,7 @@ We designed and trained an integrated visual speech and emotion recognition syst
 <br>
 ## Visual Speech Recognition – MODEL PERFORMANCE:
 ![image](https://user-images.githubusercontent.com/66003584/206933881-60cf46dd-3613-4774-9c03-d9e311a8064a.png)
-![image](https://user-images.githubusercontent.com/66003584/206933883-d5970778-0b86-42d8-a59b-f34dc7ada9ad.png)
+![image](https://user-images.githubusercontent.com/66003584/206933883-d5970778-0b86-42d8-a59b-f34dc7ada9ad.png)<br>
 Model Accuracy & Loss for Visual Speech Recognition 
       Training Accuracy = 99.50 % <br>
       Validation Accuracy = 84.67 % <br>
@@ -21,7 +21,8 @@ Model Accuracy & Loss for Visual Speech Recognition
 ### Classification Report for Visual Speech Recognition (Test Set):
 ![image](https://user-images.githubusercontent.com/66003584/206933934-8edd2391-3bdd-4dad-a66c-62941f5e8071.png)
 <br>
-![image](https://user-images.githubusercontent.com/66003584/206933937-03543fcd-a8ae-440a-83a2-75296b424865.png)
+### Confusion Matrix for Visual Speech Recognition (Test Set):
+![image](https://user-images.githubusercontent.com/66003584/206933937-03543fcd-a8ae-440a-83a2-75296b424865.png=250x250)
 <br>
 ## Demo:
 ![image](https://user-images.githubusercontent.com/66003584/206933789-97440b56-f783-42c5-89de-006fe50e1550.png)
