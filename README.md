@@ -22,7 +22,7 @@ Model Accuracy & Loss for Visual Speech Recognition
 ![image](https://user-images.githubusercontent.com/66003584/206933934-8edd2391-3bdd-4dad-a66c-62941f5e8071.png)
 <br>
 ### Confusion Matrix for Visual Speech Recognition (Test Set):
-![image](https://user-images.githubusercontent.com/66003584/206933937-03543fcd-a8ae-440a-83a2-75296b424865.png=250x250)
+![image](https://user-images.githubusercontent.com/66003584/206933937-03543fcd-a8ae-440a-83a2-75296b424865.png)
 <br>
 ## Demo:
 ![image](https://user-images.githubusercontent.com/66003584/206933789-97440b56-f783-42c5-89de-006fe50e1550.png)
